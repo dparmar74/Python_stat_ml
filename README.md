@@ -1,2 +1,2 @@
-My learning journey to Pythin, Statatics and Machine Learning.  
+My learning journey to Python for finance, Statatics and Machine Learnings.  
 
